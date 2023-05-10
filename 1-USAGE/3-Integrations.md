@@ -46,7 +46,7 @@ SublimeLinter 有相应的[插件](https://github.com/SublimeLinter/SublimeLinte
 
 [go-plus](https://github.blog/2022-06-08-sunsetting-atom/) 支持 golangci-lint.
 
-## Shell 补全
+## Shell 自动补全
 
 `golangci-lint` 可以生成 bash、fish、powershell 和 zsh 补全文件。
 
