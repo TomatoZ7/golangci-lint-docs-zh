@@ -5,3 +5,4 @@
 目前翻译的有：
 
 + [golangci-lint](./golangci-lint)
++ [go-playground/validator](./go-playground%20validatior/)
